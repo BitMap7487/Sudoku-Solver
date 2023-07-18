@@ -1,0 +1,14 @@
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.Form1.resources
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bryan\source\repos\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CopyComplete
